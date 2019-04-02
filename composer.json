@@ -1,0 +1,21 @@
+{
+    "name": "fifa-soccer-hack/fifa-soccer-hack-mod-apk-get-unlimited-gold",
+    "description": "FIFA Soccer Hack Mod APK Get Unlimited Coins Cheats Generator IOS & Android",
+
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ClICK HERE to HACK FIFA Soccer",
+            "homepage": "http://bit.ly/2r0yiqF",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+   
+    "minimum-stability": "dev"
+}
